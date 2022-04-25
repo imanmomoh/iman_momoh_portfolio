@@ -14,7 +14,9 @@
    background: linear-gradient(-45deg, #EE7752, #E73C78, #23A6D5, #23D5AD);
 }
 .hero img{
-width: 80px;
+    width: 290px;
+    margin-left: -53px;
+    height: 70px;
 }
 
 nav{
